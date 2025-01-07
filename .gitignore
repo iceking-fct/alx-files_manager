@@ -1,0 +1,6 @@
+node_modules*
+dump.rdb
+
+test.js
+pasteboard.txt
+new_image.png
